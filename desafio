@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Currículo</title>
+
+</head>
+
+<body style = "background-color: DarkKhaki;">
+
+	<h1 style="font-family: verdana;">João vicente de Oliveira Watanabe</h1>
+	<p style="font-family:verdana">
+		<strong>Cidade</strong>: Pelotas
+		<br>
+		<strong>Telefone</strong>: (53)9999-9999
+		<br>
+		<strong>Email</strong>: <a href="mailto:jvwatanabe@gmail.com">jvwatanabe@gmail.com</a>
+		<br>
+	</p>
+	<hr>
+
+	<h2 style="font-family:'Courier New'">Objetivo</h2>
+	<p style="font-family:'Courier New'">Produzir as proprias musicas
+		<br>
+		Aprender a programar
+		<br>
+		Maestria em Dj
+	</p>
+
+	<h2 style="font-family:'Courier New'">Formação</h2>
+	<p style="font-family:'Courier New'">
+		<strong>Graduação em Música</strong>
+		<br>
+		Universidade Federal de Pelotas
+		<br><br>
+		<strong>Graduação em Dj</strong>
+		<br>
+		Escola Remix de Dj's
+	</p>
+
+	<h2 >Experiência</h2>
+	<br>
+
+	
+	<p style="font-family:'Courier New'">
+	<img src="https://i1.wp.com/www.aimec.com.br/wp-content/uploads/2018/03/aimec_destacada_site.png?fit=992%2C579&ssl=1" alt="Escola de Dj's" width="150"> 
+
+	<strong>Dj e produtor</strong> - <a href="https://www.aimec.com.br"> Aimec BR </a>
+	
+	</p>
+	<p style="font-family:'Courier New'">Criar conteúdos para divulgar os trabalhos na aimec e ajudar outras pessoas.</p>
+	
+	<br>
+
+	<p style="font-family:'Courier New'">
+	<img src="https://i.pinimg.com/originals/e3/26/c6/e326c652a8c5a636bedf176315cc77c8.jpg" alt="Cursos piratas" width="150"> 
+
+	<strong>Marujo junior - Pirata</strong>
+
+	</p>
+	<p style="font-family:'Courier New'">Resposavel pela organização no navio</p>
+
+	<h2 style="font-family:'Courier New'">Habilidades</h2>
+	<br>
+	<ul style="font-family:'Courier New'">
+		<li>HTML basico</li>
+		<li>Javascript Basico</li>
+		<li>ableton live</li>
+		<li>RekordBox</li>
+		<li>Personal organizer</li>
+	</ul>
+	
+
+
+
+
+
+
+</body>
+</html>
